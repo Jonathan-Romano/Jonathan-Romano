@@ -2,7 +2,7 @@
 <h1 align="center">Bienvenidos a <a href="https://github.com/Jonathan-Romano">Mi GitHub!!!<a><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></h1>
 
 
-![Banner](https://raw.githubusercontent.com/Jonathan-Romano/Jonathan-Romano/main/assets/banner.jpg)
+![Banner](https://raw.githubusercontent.com/Jonathan-Romano/Jonathan-Romano/master/assets/banner.jpg)
 
 <h2 style="color = #E5EF1F;">Hola!! Soy Jonathan</h2>
 
