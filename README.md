@@ -9,7 +9,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bootstrap,c,cpp,css,discord,docker,github,html,idea,java,js,mysql,nextjs,nodejs,postman,react,ts,vscode,eclipse,hibernate,&perline=8" />
+    <img src="https://skillicons.dev/icons?i=bootstrap,c,cpp,css,discord,docker,github,html,idea,java,js,mysql,nextjs,nodejs,postman,react,ts,vscode,eclipse,hibernate,&perline=10" />
   </a>
 </p>
 
