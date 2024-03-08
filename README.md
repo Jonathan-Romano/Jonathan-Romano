@@ -8,12 +8,12 @@
 
 
 ### 👨🏻‍💻 &nbsp;Sobre mi:
-<div>
+
 💡 &nbsp;Me gusta explorar nuevas tecnologías y desarrollar soluciones de software..\
 🎓 &nbsp;Estoy estudiando ingenieria en sistemas en la univercidad tecnologica nacional.\
 🌱 &nbsp;Me estoy desarrollando en backend con java.\
 ✍️ &nbsp;En mi tiempo libre busco nuevas aprender nuevas tecnologias que complementen mis conocimientos.\
-</div>
+
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
