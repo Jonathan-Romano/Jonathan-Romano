@@ -2,7 +2,7 @@
 <h1 align="center">Bienvenidos a <a href="https://github.com/Aryagm">Mi GitHub!!!<a><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></h1>
 
 
-![Aditya Vikram Singh Banner](https://raw.githubusercontent.com/master/assets/banner.jpg)
+![Banner](https://github.com/Jonathan-Romano/Jonathan-Romano/tree/main/assets/banner.jpg)
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hola!! Soy Jonathan</h2>
 
