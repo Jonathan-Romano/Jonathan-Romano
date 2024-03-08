@@ -4,9 +4,8 @@
 
 ![Banner](https://raw.githubusercontent.com/Jonathan-Romano/Jonathan-Romano/main/assets/banner.jpg)
 
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hola!! Soy Jonathan</h2>
+<h2 style="color = #E5EF1F;">Hola!! Soy Jonathan</h2>
 
-<!-- ## 👋 &nbsp; -->
 
 ### 👨🏻‍💻 &nbsp;Sobre mi:
 
