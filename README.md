@@ -39,7 +39,7 @@
 <img style="width: 12%; height: auto;" src="https://github.com/Jonathan-Romano/Jonathan-Romano/blob/main/assets/codigo-front.jpg">
 </a>
 <a href="https://github.com/Jonathan-Romano/TechnoMist-Back-End" target="_blank">
-<img style="width: 12%; height: auto;display: inline-block; border-radius: 15px; overflow: hidden;" src="https://github.com/Jonathan-Romano/Jonathan-Romano/blob/main/assets/codigo-back.jpg">
+<img style="width: 12%; height: auto;" src="https://github.com/Jonathan-Romano/Jonathan-Romano/blob/main/assets/codigo-back.jpg">
 </a>
 <a href="https://www.youtube.com/watch?v=O1oEGcQJSn0" target="_blank">
 <img style="width: 12%; height: auto;" src="https://github.com/Jonathan-Romano/Jonathan-Romano/blob/main/assets/youtube.jpg">
