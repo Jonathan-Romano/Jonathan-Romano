@@ -29,7 +29,7 @@
 
 ## Proyectos:
 <!--horizontal divider(gradiant)-->
-<img src="(https://github.com/Jonathan-Romano/Jonathan-Romano/blob/main/assets/TechnoMist.jpg)">
+<img src="https://github.com/Jonathan-Romano/Jonathan-Romano/blob/main/assets/TechnoMist.jpg">
 <table>
 <tr>
 <td width="50%">
