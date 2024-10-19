@@ -39,7 +39,7 @@
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
 <a href="https://github.com/Jonathan-Romano/TechnoMist-Back-End" target="_blank">
-<img style="width: 300px; height: auto;" src="https://github.com/Jonathan-Romano/Jonathan-Romano/blob/main/assets/codigo-back.jpg">
+<img style="width: 50px; height: auto;" src="https://github.com/Jonathan-Romano/Jonathan-Romano/blob/main/assets/codigo-back.jpg">
 </a>
 <a href="https://www.youtube.com/watch?v=O1oEGcQJSn0" target="_blank">
 <img width="10%" heigth="10px" src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
