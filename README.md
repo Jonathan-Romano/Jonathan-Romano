@@ -42,7 +42,7 @@
 <img style="width: 12%; height: auto;" src="https://github.com/Jonathan-Romano/Jonathan-Romano/blob/main/assets/codigo-back.jpg">
 </a>
 <a href="https://www.youtube.com/watch?v=O1oEGcQJSn0" target="_blank">
-<img style="width: 12%; height: auto;" src="https://github.com/Jonathan-Romano/Jonathan-Romano/blob/main/assets/codigo-front.jpg">
+<img style="width: 12%; height: auto;" src="https://github.com/Jonathan-Romano/Jonathan-Romano/blob/main/assets/youtube.jpg">
 </a>
 </p>
 <p>Aplicacion de Gestión de Productos<strong>: proporciona los servicios necesarios para gestionar productos, carritos de compras y ventas dentro de una plataforma de comercio electrónico. Permite listar productos, administrar el contenido de carritos de compras y registrar ventas.
