@@ -42,7 +42,9 @@
 <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
 </a>
 </p>
-<p>Aprende a programar aplicaciones <strong>Android con Kotlin desde cero</strong> - En este curso aprenderás todo lo necesario ya que no es necesario ningún conocimiento previo. Curso <strong>GRATUITO de 12 horas</strong> con todo el código disponible para descargar.</p>
+<p>Aplicacion de Gestión de Productos<strong>: proporciona los servicios necesarios para gestionar productos, carritos de compras y ventas dentro de una plataforma de comercio electrónico. Permite listar productos, administrar el contenido de carritos de compras y registrar ventas.
+
+###Funciones principales: • Gestión de productos (agregar, eliminar, listar, obtener detalles). • Manejo del carrito de compras (agregar/eliminar productos). • Registro de ventas y cálculo del total de la compra..</p>
 </div>
                                                                                       
 </td>
