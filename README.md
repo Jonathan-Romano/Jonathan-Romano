@@ -14,7 +14,8 @@
 ✍️ &nbsp;En mi tiempo libre busco nuevas aprender nuevas tecnologias que complementen mis conocimientos.
 
 ###Mi Portfolio:
-<img style="width: 20%; height: auto;" src="https://github.com/Jonathan-Romano/Jonathan-Romano/blob/main/assets/codigo-front.jpg">
+<a href="https://github.com/Jonathan-Romano/TechnoMist-Back-End" target="_blank"><img src="https://github.com/Jonathan-Romano/Jonathan-Romano/blob/main/assets/TechnoMist.png" width="400" alt="Curso básico android"></a>
+
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
@@ -35,7 +36,7 @@
 <td width="50%">
 <h3 align= "center">TechnoMist</h3>
 <div align="center">
-<a href="https://github.com/Jonathan-Romano/TechnoMist-Back-End" target="_blank"><img src="https://github.com/Jonathan-Romano/Jonathan-Romano/blob/main/assets/TechnoMist.png" width="400" alt="Curso básico android"></a>
+<a href="https://github.com/Jonathan-Romano/TechnoMist-Back-End" target="_blank"><img src="https://github.com/Jonathan-Romano/Jonathan-Romano/blob/main/assets/TechnoMist.png" width="400" alt="TechnoMist"></a>
 <p>
 <a href="https://github.com/Jonathan-Romano/TechnoMist-Front-End" target="_blank">
 <img style="width: 20%; height: auto;" src="https://github.com/Jonathan-Romano/Jonathan-Romano/blob/main/assets/codigo-front.jpg">
@@ -55,7 +56,7 @@
 <td width="50%">
 <h3 align="center">ClinicData</h3>
 <div align="center">
-<a href="https://github.com/Jonathan-Romano/TechnoMist-Back-End" target="_blank"><img src="https://github.com/Jonathan-Romano/Jonathan-Romano/blob/main/assets/ClinicData.png" width="400" alt="Curso básico android"></a>
+<a href="https://github.com/Jonathan-Romano/TechnoMist-Back-End" target="_blank"><img src="https://github.com/Jonathan-Romano/Jonathan-Romano/blob/main/assets/ClinicData.png" width="400" alt="ClinicData"></a>
 <p>
 <a href="https://github.com/Jonathan-Romano/ClinicData-Front-End" target="_blank">
 <img style="width: 20%; height: auto;" src="https://github.com/Jonathan-Romano/Jonathan-Romano/blob/main/assets/ClinicData/ClinicData-FrontEnd.jpg">
