@@ -14,7 +14,8 @@
 ✍️ &nbsp;En mi tiempo libre busco nuevas aprender nuevas tecnologias que complementen mis conocimientos.
 
 ###Mi Portfolio:
-<a href="https://github.com/Jonathan-Romano/TechnoMist-Back-End" target="_blank"><img src="https://github.com/Jonathan-Romano/Jonathan-Romano/blob/main/assets/TechnoMist.png" width="400" alt="Curso básico android"></a>
+
+<a href="https://portfolio-jonathan-romano.netlify.app/" target="_blank"><img src="https://github.com/Jonathan-Romano/Jonathan-Romano/blob/main/assets/portfolio.jpg" width="400" alt="Curso básico android"></a>
 
 
 <!--h1 without bottom border-->
