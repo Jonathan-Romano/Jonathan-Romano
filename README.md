@@ -16,8 +16,9 @@
 
 <h3 align="center"> Mi Portfolio:</h3> 
 
-<a href="https://portfolio-jonathan-romano.netlify.app/" target="_blank" align="center"><img src="https://github.com/Jonathan-Romano/Jonathan-Romano/blob/main/assets/portfolio.jpg" width="400" alt="Curso básico android"></a>
-
+<a href="https://portfolio-jonathan-romano.netlify.app/" target="_blank" align="center">
+  <img src="https://github.com/Jonathan-Romano/Jonathan-Romano/blob/main/assets/portfolio.jpg" width="400" alt="Curso básico android">
+</a>
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
