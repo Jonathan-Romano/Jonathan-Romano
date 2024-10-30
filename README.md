@@ -14,7 +14,7 @@
 ✍️ &nbsp;En mi tiempo libre busco nuevas aprender nuevas tecnologias que complementen mis conocimientos.
 
 ###Mi Portfolio:
-
+<img style="width: 20%; height: auto;" src="https://github.com/Jonathan-Romano/Jonathan-Romano/blob/main/assets/codigo-front.jpg">
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
