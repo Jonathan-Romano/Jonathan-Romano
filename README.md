@@ -51,9 +51,9 @@
 </td>
 
 <td width="50%">
-<h3 align="center">TechnoMist</h3>
+<h3 align="center">ClinicData</h3>
 <div align="center">
-<a href="https://github.com/Jonathan-Romano/TechnoMist-Back-End" target="_blank"><img src="https://github.com/Jonathan-Romano/Jonathan-Romano/blob/main/assets/TechnoMist.png" width="400" alt="Curso básico android"></a>
+<a href="https://github.com/Jonathan-Romano/TechnoMist-Back-End" target="_blank"><img src="https://github.com/Jonathan-Romano/Jonathan-Romano/blob/main/assets/ClinicData.png" width="400" alt="Curso básico android"></a>
 <p>
 <a href="https://github.com/Jonathan-Romano/TechnoMist-Front-End" target="_blank">
 <img style="width: 12%; height: auto;" src="https://github.com/Jonathan-Romano/Jonathan-Romano/blob/main/assets/codigo-front.jpg">
@@ -61,11 +61,15 @@
 <a href="https://github.com/Jonathan-Romano/TechnoMist-Back-End" target="_blank">
 <img style="width: 12%; height: auto;" src="https://github.com/Jonathan-Romano/Jonathan-Romano/blob/main/assets/codigo-back.jpg">
 </a>
-<a href="https://www.youtube.com/watch?v=O1oEGcQJSn0" target="_blank">
+<a href="https://youtu.be/bWbOO4wpbRc" target="_blank">
 <img style="width: 12%; height: auto;" src="https://github.com/Jonathan-Romano/Jonathan-Romano/blob/main/assets/youtube.jpg">
 </a>
 </p>
-<p><strong>Aplicacion de Gestión de Productos</strong>: proporciona los servicios necesarios para gestionar productos, carritos de compras y ventas dentro de una plataforma de comercio electrónico. Permite listar productos, administrar el contenido de carritos de compras y registrar ventas.</p>
+<p><strong>Aplicacion de Gestión de Pacientes</strong>: permite gestionar de manera eficiente a los pacientes de un consultorio, junto con sus visitas médicas. Facilita la visualización y administración de la información de cada paciente, así como el registro detallado de las visitas realizadas, ofreciendo una herramienta integral para un manejo organizado y efectivo.</p>
 </div>                                                             
 </table>                                                                                 
 </div>
+
+<br>
+
+
