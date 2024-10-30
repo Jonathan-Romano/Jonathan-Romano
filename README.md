@@ -56,13 +56,13 @@
 <a href="https://github.com/Jonathan-Romano/TechnoMist-Back-End" target="_blank"><img src="https://github.com/Jonathan-Romano/Jonathan-Romano/blob/main/assets/ClinicData.png" width="400" alt="Curso básico android"></a>
 <p>
 <a href="https://github.com/Jonathan-Romano/TechnoMist-Front-End" target="_blank">
-<img style="width: 12%; height: auto;" src="https://github.com/Jonathan-Romano/Jonathan-Romano/blob/main/assets/codigo-front.jpg">
+<img style="width: 20%; height: auto;" src="https://github.com/Jonathan-Romano/Jonathan-Romano/blob/main/assets/codigo-front.jpg">
 </a>
 <a href="https://github.com/Jonathan-Romano/TechnoMist-Back-End" target="_blank">
-<img style="width: 12%; height: auto;" src="https://github.com/Jonathan-Romano/Jonathan-Romano/blob/main/assets/codigo-back.jpg">
+<img style="width: 20%; height: auto;" src="https://github.com/Jonathan-Romano/Jonathan-Romano/blob/main/assets/codigo-back.jpg">
 </a>
 <a href="https://youtu.be/bWbOO4wpbRc" target="_blank">
-<img style="width: 12%; height: auto;" src="https://github.com/Jonathan-Romano/Jonathan-Romano/blob/main/assets/youtube.jpg">
+<img style="width: 20%; height: auto;" src="https://github.com/Jonathan-Romano/Jonathan-Romano/blob/main/assets/youtube.jpg">
 </a>
 </p>
 <p><strong>Aplicacion de Gestión de Pacientes</strong>: permite gestionar de manera eficiente a los pacientes de un consultorio, junto con sus visitas médicas. Facilita la visualización y administración de la información de cada paciente, así como el registro detallado de las visitas realizadas, ofreciendo una herramienta integral para un manejo organizado y efectivo.</p>
