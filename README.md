@@ -14,11 +14,13 @@
 ✍️ &nbsp;En mi tiempo libre busco nuevas aprender nuevas tecnologias que complementen mis conocimientos.
 --
 
-<h3 align="center"> Mi Portfolio:</h3> 
+<h3 align="center">Mi Portfolio:</h3>
 
-<a href="https://portfolio-jonathan-romano.netlify.app/" target="_blank" align="center">
-  <img src="https://github.com/Jonathan-Romano/Jonathan-Romano/blob/main/assets/portfolio.jpg" width="400" alt="Curso básico android">
-</a>
+<p align="center">
+  <a href="https://portfolio-jonathan-romano.netlify.app/" target="_blank">
+    <img src="https://github.com/Jonathan-Romano/Jonathan-Romano/blob/main/assets/portfolio.jpg" width="400" alt="Curso básico android">
+  </a>
+</p>
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
