@@ -13,8 +13,8 @@
 🌱 &nbsp;Me estoy desarrollando en backend con java y frontend con angular.\
 ✍️ &nbsp;En mi tiempo libre busco nuevas aprender nuevas tecnologias que complementen mis conocimientos.
 
---
-<h3 align="center"> <strong> Mi Portfolio: </strong></h3>
+---
+<h3 align="center"> <strong> MI PORTFOLIO: </strong></h3>
 
 <p align="center">
   <a href="https://portfolio-jonathan-romano.netlify.app/" target="_blank">
