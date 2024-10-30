@@ -47,6 +47,9 @@
 </p>
 <p>Aplicacion de Gestión de Productos<strong>: proporciona los servicios necesarios para gestionar productos, carritos de compras y ventas dentro de una plataforma de comercio electrónico. Permite listar productos, administrar el contenido de carritos de compras y registrar ventas.
 </div>
+</td>
+</tr>
+  
 <tr>
 <td width="50%">
 <h3 align="center">TechnoMist</h3>
@@ -64,6 +67,6 @@
 </a>
 </p>
 <p>Aplicacion de Gestión de Productos<strong>: proporciona los servicios necesarios para gestionar productos, carritos de compras y ventas dentro de una plataforma de comercio electrónico. Permite listar productos, administrar el contenido de carritos de compras y registrar ventas.
-</div>
-                                                                                                                                                                       
+</div>                                                                                                                                                                   
 </td>
+</tr>
