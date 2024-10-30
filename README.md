@@ -45,12 +45,11 @@
 <img style="width: 12%; height: auto;" src="https://github.com/Jonathan-Romano/Jonathan-Romano/blob/main/assets/youtube.jpg">
 </a>
 </p>
-<p>Aplicacion de Gestión de Productos<strong>: proporciona los servicios necesarios para gestionar productos, carritos de compras y ventas dentro de una plataforma de comercio electrónico. Permite listar productos, administrar el contenido de carritos de compras y registrar ventas.
+<p><strong>Aplicacion de Gestión de Productos</strong>: proporciona los servicios necesarios para gestionar productos, carritos de compras y ventas dentro de una plataforma de comercio electrónico. Permite listar productos, administrar el contenido de carritos de compras y registrar ventas.</p>
 </div>
-</td>
-</tr>
   
-<tr>
+</td>
+
 <td width="50%">
 <h3 align="center">TechnoMist</h3>
 <div align="center">
@@ -66,7 +65,7 @@
 <img style="width: 12%; height: auto;" src="https://github.com/Jonathan-Romano/Jonathan-Romano/blob/main/assets/youtube.jpg">
 </a>
 </p>
-<p>Aplicacion de Gestión de Productos<strong>: proporciona los servicios necesarios para gestionar productos, carritos de compras y ventas dentro de una plataforma de comercio electrónico. Permite listar productos, administrar el contenido de carritos de compras y registrar ventas.
-</div>                                                                                                                                                                   
-</td>
-</tr>
+<p><strong>Aplicacion de Gestión de Productos</strong>: proporciona los servicios necesarios para gestionar productos, carritos de compras y ventas dentro de una plataforma de comercio electrónico. Permite listar productos, administrar el contenido de carritos de compras y registrar ventas.</p>
+</div>                                                             
+</table>                                                                                 
+</div>
