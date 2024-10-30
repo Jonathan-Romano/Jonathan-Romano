@@ -12,8 +12,9 @@
 🎓 &nbsp;Estoy estudiando ingenieria en sistemas en la Univercidad Tecnologica Nacional.\
 🌱 &nbsp;Me estoy desarrollando en backend con java y frontend con angular.\
 ✍️ &nbsp;En mi tiempo libre busco nuevas aprender nuevas tecnologias que complementen mis conocimientos.
+--
 
-###Mi Portfolio:
+### Mi Portfolio:
 
 <a href="https://portfolio-jonathan-romano.netlify.app/" target="_blank"><img src="https://github.com/Jonathan-Romano/Jonathan-Romano/blob/main/assets/portfolio.jpg" width="400" alt="Curso básico android"></a>
 
