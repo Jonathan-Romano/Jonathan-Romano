@@ -14,7 +14,7 @@
 ✍️ &nbsp;En mi tiempo libre busco nuevas aprender nuevas tecnologias que complementen mis conocimientos.
 --
 
-<h3 align="center">Mi Portfolio:</h3>
+<h2 align="center">Mi Portfolio:</h2>
 
 <p align="center">
   <a href="https://portfolio-jonathan-romano.netlify.app/" target="_blank">
